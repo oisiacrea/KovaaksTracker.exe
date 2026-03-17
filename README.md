@@ -3,6 +3,14 @@
 A tracker tool for KovaaK's stats and progress.
 It shows play counts, levels, graphs, ranks, top percentages, and custom tiers in one place.
 
+## Download
+
+[Download KovaaksTracker v1.0.0](../../releases/download/v1.0.0/KovaaksTracker_v1.zip)
+
+## Release Page
+
+[View Release Page](../../releases/tag/v1.0.0)
+
 How to Use KovaaksTracker After Downloading.
 <img width="1094" height="673" alt="スクリーンショット 2026-03-16 103757" src="https://github.com/user-attachments/assets/8cb9e41e-3a48-415e-b81a-46091d57e461" />
 First, click Select Stats Folder in the top-right corner.
